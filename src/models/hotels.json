@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "Hotel A",
+        "location": "Paris",
+        "price": 100,
+        "availability": true
+    },
+    {
+        "id": "2",
+        "name": "Hotel B",
+        "location": "London",
+        "price": 150,
+        "availability": true
+    }
+]
