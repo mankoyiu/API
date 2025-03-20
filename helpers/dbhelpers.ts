@@ -1,7 +1,7 @@
 // dbhelpers.ts:
 import { MongoClient, ServerApiVersion, ObjectId } from 'mongodb';
 
-const uri = "mongodb+srv://mankoyiu:z9132326@cluster0.f80so0j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://xxxx:yyyy@cluster0.f80so0j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 const client = new MongoClient(uri, {
   serverApi: {
